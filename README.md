@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @KRISHNAKUMAR2001
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @KRISHNAKUMAR
+- 👀 I’m interested in UI/UX
+- 🌱 I’m currently Doing in DataAugmentor
+- 💞️ I’m looking to collaborate on Freelancing
+- 📫 How to reach me 
+https://www.linkedin.com/in/krishnakumar-j-8a4268220/ 
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-KRISHNAKUMAR2001/KRISHNAKUMAR2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact: ..
